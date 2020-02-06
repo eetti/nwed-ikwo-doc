@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Nwed Ikwo.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>3F9AC937BE3A333CD4C48C6C949012D99158E8FE</string>
+				<key>dateExpires</key>
+				<string>8/27/20</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>HYTTM74H2T.com.etti.efikHymn</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>HYTTM74H2T</string>
+			</dict>
+			<key>name</key>
+			<string>Nwed Ikwo.app</string>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>HYTTM74H2T</string>
+				<key>name</key>
+				<string>Emmanuel Etti</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
